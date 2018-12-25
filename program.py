@@ -26,7 +26,7 @@ def get_birthday_from_user():
 
 def print_header():
 	print("-------------------------------------------------")
-	print("                 BIRTHDAY APP")
+	print("           HOW DAYS OLD YOU ARE?")
 	print("-------------------------------------------------")
 	print()
 
